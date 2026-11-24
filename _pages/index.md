@@ -1,3 +1,4 @@
+![Uploading 1000027171.jpg…]()
 ---
 title: Welcome to the Login.gov Developer Guide
 lead: >
